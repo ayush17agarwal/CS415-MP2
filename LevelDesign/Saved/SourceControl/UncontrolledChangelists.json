@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LevelDesign.umap"
+			]
+		}
+	]
+}
