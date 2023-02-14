@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LevelDesign.umap",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LevelDesign.umap",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthBar.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LevelDesign.umap"
 			]
