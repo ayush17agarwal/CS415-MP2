@@ -14,6 +14,10 @@
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/WBP_LevelFailed.uasset",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Collectible_BP.uasset",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LevelDesign.umap",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LevelDesign.umap"
