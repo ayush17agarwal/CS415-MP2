@@ -6,10 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
-				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LevelDesign.umap",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LevelDesign.umap",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthBar.uasset",
 				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/WBP_MainMenu.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/WBP_LevelComplete.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/WBP_LevelFailed.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset",
+				"C:/Users/ayushba2/Desktop/cs415/CS415-MP2/LevelDesign/Content/LevelDesign.umap",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"/Users/ayushagarwal/Desktop/CS 415/CS415-MP2/LevelDesign/Content/LevelDesign.umap"
 			]
